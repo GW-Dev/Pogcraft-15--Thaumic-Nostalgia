@@ -1,0 +1,14 @@
+name = "BaublesHud"
+filename = "BaublesHud-1.7.10-2.0.1.jar"
+side = "both"
+
+[download]
+mode = "metadata:curseforge"
+url = ""
+hash-format = "sha1"
+hash = "fa971bfec2ccd19d7d0c2b3f0e2c98d2cc7e751f"
+
+[update]
+[update.curseforge]
+file-id = 2269893
+project-id = 230751

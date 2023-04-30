@@ -1,0 +1,14 @@
+name = "Nodal Mechanics"
+filename = "NodalMechanics-1.7-1.0-7.jar"
+side = "both"
+
+[download]
+mode = "metadata:curseforge"
+url = ""
+hash-format = "sha1"
+hash = "2e985ce4ecf4a7495436a038656fbc35a0f2213c"
+
+[update]
+[update.curseforge]
+file-id = 2213742
+project-id = 223704

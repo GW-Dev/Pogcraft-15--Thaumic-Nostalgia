@@ -1,0 +1,14 @@
+name = "Thaumic Fixer"
+filename = "Thaumic Fixer-1.2.jar"
+side = "both"
+
+[download]
+mode = "metadata:curseforge"
+url = ""
+hash-format = "sha1"
+hash = "3ecddf0b187472a2e552b73ce44a18a55e5e9718"
+
+[update]
+[update.curseforge]
+file-id = 2569804
+project-id = 295412
