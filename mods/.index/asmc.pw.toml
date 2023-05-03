@@ -1,0 +1,14 @@
+name = "ASMC"
+filename = "ASMC-1.7.10-1.0.2.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/Xc1brHiM/versions/ocJww0CQ/ASMC-1.7.10-1.0.2.jar"
+hash-format = "sha512"
+hash = "efef4a687f488aecff23fbea33414bb05cadb043fcf4d09af21f0b1dca3924aba194560dbd21b38f86629b07c2bd02f1d8c34145c27a4da9266b6e1c3ccf61eb"
+
+[update]
+[update.modrinth]
+mod-id = "Xc1brHiM"
+version = "ocJww0CQ"

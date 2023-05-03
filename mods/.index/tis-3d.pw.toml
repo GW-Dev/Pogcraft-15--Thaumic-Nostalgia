@@ -1,0 +1,14 @@
+name = "TIS-3D"
+filename = "TIS-3D-MC1.7.10-1.4.0.78.jar"
+side = "both"
+
+[download]
+mode = "metadata:curseforge"
+url = ""
+hash-format = "sha1"
+hash = "bc82cb5e50ed3bc9635396b9853d314c5ddda88e"
+
+[update]
+[update.curseforge]
+file-id = 2588365
+project-id = 238603

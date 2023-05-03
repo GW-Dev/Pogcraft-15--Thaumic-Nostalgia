@@ -1,0 +1,14 @@
+name = "BiblioCraft: BiblioWoods Natura Edition"
+filename = "BiblioWoods[Natura][v1.5].jar"
+side = "both"
+
+[download]
+mode = "metadata:curseforge"
+url = ""
+hash-format = "sha1"
+hash = "5002bceb9d04afc5738421ea02853b6de530c005"
+
+[update]
+[update.curseforge]
+file-id = 2229581
+project-id = 228364

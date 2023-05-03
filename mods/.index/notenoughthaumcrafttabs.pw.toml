@@ -1,0 +1,14 @@
+name = "NotEnoughThaumcraftTabs"
+filename = "NotEnoughThaumcraftTabs-1.0.2.jar"
+side = "both"
+
+[download]
+mode = "metadata:curseforge"
+url = ""
+hash-format = "sha1"
+hash = "48f2ed3b762cf303687af1f3101979cc3dbe343f"
+
+[update]
+[update.curseforge]
+file-id = 2266711
+project-id = 237232

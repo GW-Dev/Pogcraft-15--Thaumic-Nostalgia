@@ -1,0 +1,14 @@
+name = "ASM Fixes (J.A.F.M)"
+filename = "ASMFixes-1.0.jar"
+side = "both"
+
+[download]
+mode = "metadata:curseforge"
+url = ""
+hash-format = "sha1"
+hash = "13de381a6ee6972600736e27b313d376831ae928"
+
+[update]
+[update.curseforge]
+file-id = 2294974
+project-id = 244171

@@ -1,0 +1,14 @@
+name = "Storage Drawers NEI Fix"
+filename = "sdnf-1.0.jar"
+side = "both"
+
+[download]
+mode = "metadata:curseforge"
+url = ""
+hash-format = "sha1"
+hash = "fb4b2a0fc750ae0b9de5b3fe7e1ad2c1078c58bc"
+
+[update]
+[update.curseforge]
+file-id = 2541028
+project-id = 290114

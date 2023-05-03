@@ -1,0 +1,14 @@
+name = "ArchaicFix"
+filename = "archaicfix-0.5.0.jar"
+side = "both"
+
+[download]
+mode = "metadata:curseforge"
+url = ""
+hash-format = "sha1"
+hash = "a2d77e535c993b1faf6d0c7a10a7bdb9880eef5c"
+
+[update]
+[update.curseforge]
+file-id = 4405338
+project-id = 677782

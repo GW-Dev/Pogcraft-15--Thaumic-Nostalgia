@@ -1,0 +1,14 @@
+name = "CartFixes"
+filename = "CartFixes-1.7.10-0.1.0.jar"
+side = "both"
+
+[download]
+mode = "metadata:curseforge"
+url = ""
+hash-format = "sha1"
+hash = "2260a1e889f42f5e0c05de5b11d7c497eede24ba"
+
+[update]
+[update.curseforge]
+file-id = 2234557
+project-id = 229655

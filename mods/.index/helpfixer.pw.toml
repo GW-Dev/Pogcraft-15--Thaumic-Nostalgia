@@ -1,0 +1,14 @@
+name = "HelpFixer"
+filename = "HelpFixer-1.0.7.jar"
+side = "both"
+
+[download]
+mode = "metadata:curseforge"
+url = ""
+hash-format = "sha1"
+hash = "9e2806c77f9bdbc01510b2794e2b1af5a604f4f0"
+
+[update]
+[update.curseforge]
+file-id = 2223813
+project-id = 223797

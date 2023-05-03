@@ -1,0 +1,14 @@
+name = "BugTorch"
+filename = "bugtorch-1.2.7.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/6su8A6OH/versions/deAaraho/bugtorch-1.2.7.jar"
+hash-format = "sha512"
+hash = "59205cfb40b4e6bc1f49f7fa5ff5a66b69d03d3b392f59171aa33a2a0317e3be826e59bf4f49f7356d59873c18c4cb75441d10bcd8d7f6bceec9751f1d1d80bf"
+
+[update]
+[update.modrinth]
+mod-id = "6su8A6OH"
+version = "deAaraho"

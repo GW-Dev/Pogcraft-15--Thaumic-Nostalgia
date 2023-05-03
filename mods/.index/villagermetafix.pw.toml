@@ -1,0 +1,14 @@
+name = "VillagerMetaFix"
+filename = "VillagerMetaFix-0.3.jar"
+side = "both"
+
+[download]
+mode = "metadata:curseforge"
+url = ""
+hash-format = "sha1"
+hash = "f2cb777aa3434f2ac1eb5f9b7d93af5246fc46ae"
+
+[update]
+[update.curseforge]
+file-id = 2293957
+project-id = 242057

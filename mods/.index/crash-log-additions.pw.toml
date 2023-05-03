@@ -1,0 +1,14 @@
+name = "Crash Log Additions"
+filename = "CrashLogAdditions-1.7.10-1.1.jar"
+side = "both"
+
+[download]
+mode = "metadata:curseforge"
+url = ""
+hash-format = "sha1"
+hash = "0a0141b9fbb230e1ca78d9df2623d23489a9b9c3"
+
+[update]
+[update.curseforge]
+file-id = 2316260
+project-id = 247499

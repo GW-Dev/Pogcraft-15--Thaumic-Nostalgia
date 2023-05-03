@@ -1,0 +1,14 @@
+name = "BiblioWoods Natura Edition"
+filename = "BiblioCraft[v1.11.7][MC1.7.10].jar"
+side = "both"
+
+[download]
+mode = "metadata:curseforge"
+url = ""
+hash-format = "sha1"
+hash = "fb8af3a336e72c4268ef849f38a39b70771be8f3"
+
+[update]
+[update.curseforge]
+file-id = 2423369
+project-id = 228027

@@ -1,0 +1,14 @@
+name = "Gendustry"
+filename = "gendustry-1.6.4.135-mc1.7.10.jar"
+side = "both"
+
+[download]
+mode = "metadata:curseforge"
+url = ""
+hash-format = "sha1"
+hash = "b164456b4a8264eb06685fb9cec574746bfd792e"
+
+[update]
+[update.curseforge]
+file-id = 2293751
+project-id = 70492

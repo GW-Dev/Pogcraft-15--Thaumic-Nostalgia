@@ -1,0 +1,14 @@
+name = "UniMixins"
+filename = "-unimixins-all-1.7.10-0.1.7.1.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/ghjoiQAl/versions/imlnqLey/-unimixins-all-1.7.10-0.1.7.1.jar"
+hash-format = "sha512"
+hash = "29008d24acfe56fd3642aede615bc02b6405da8e030366e913eb256033c1e492eb2602fdd6131b3530ccf6586244c4e699a4f14bd07b344bed89b3c136c74475"
+
+[update]
+[update.modrinth]
+mod-id = "ghjoiQAl"
+version = "imlnqLey"

@@ -1,0 +1,14 @@
+name = "Careful Cast Corrector [CCC]"
+filename = "Careful+Cast+Corrector-2.0.jar"
+side = "both"
+
+[download]
+mode = "metadata:curseforge"
+url = ""
+hash-format = ""
+hash = ""
+
+[update]
+[update.curseforge]
+file-id = 3310159
+project-id = 324714

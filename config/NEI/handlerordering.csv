@@ -19,11 +19,7 @@ com.emoniph.witchery.integration.NEIDistilleryRecipeHandler,0
 com.emoniph.witchery.integration.NEIKettleRecipeHandler,0
 com.emoniph.witchery.integration.NEISpinningWheelRecipeHandler,0
 com.emoniph.witchery.integration.NEIWitchesOvenRecipeHandler,0
-com.rwtema.extrautils.nei.EnderConstructorHandler,0
-com.rwtema.extrautils.nei.FMPMicroBlocksHandler,0
-com.rwtema.extrautils.nei.InfoHandler,0
-com.rwtema.extrautils.nei.MicroBlocksHandler,0
-com.rwtema.extrautils.nei.SoulHandler,0
+com.pam.harvestcraft.GardenRecipeHandler,0
 forestry.factory.recipes.nei.NEIHandlerBottler,0
 forestry.factory.recipes.nei.NEIHandlerCarpenter,0
 forestry.factory.recipes.nei.NEIHandlerCentrifuge,0
@@ -59,5 +55,10 @@ ru.timeconqueror.tcneiadditions.nei.AspectCombinationHandler,0
 ru.timeconqueror.tcneiadditions.nei.AspectFromItemStackHandler,0
 ru.timeconqueror.tcneiadditions.nei.arcaneworkbench.ArcaneCraftingShapedHandler,0
 team.chisel.compat.nei.RecipeHandlerChisel,0
+tonius.neiintegration.mods.harvestcraft.RecipeHandlerApiary,0
+tonius.neiintegration.mods.harvestcraft.RecipeHandlerChurn,0
+tonius.neiintegration.mods.harvestcraft.RecipeHandlerOven,0
+tonius.neiintegration.mods.harvestcraft.RecipeHandlerPresser,0
+tonius.neiintegration.mods.harvestcraft.RecipeHandlerQuern,0
 tonius.neiintegration.mods.mcforge.RecipeHandlerFluidRegistry,0
 tonius.neiintegration.mods.mcforge.RecipeHandlerOreDictionary,0

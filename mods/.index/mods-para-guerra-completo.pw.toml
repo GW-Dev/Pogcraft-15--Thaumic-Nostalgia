@@ -1,0 +1,14 @@
+name = "mods para guerra completo"
+filename = "liteloader-1.7.10-client.jar"
+side = "both"
+
+[download]
+mode = "metadata:curseforge"
+url = ""
+hash-format = "sha1"
+hash = "0b75e409003b6b4954afed9ef673dbdc7da6b734"
+
+[update]
+[update.curseforge]
+file-id = 3341370
+project-id = 491390
